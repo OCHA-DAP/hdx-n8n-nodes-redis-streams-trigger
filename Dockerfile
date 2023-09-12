@@ -1,4 +1,4 @@
-FROM n8nio/n8n:0.236.3
+FROM n8nio/n8n:0.234.1
 
 ENV N8N_CUSTOM_EXTENSIONS=/custom
 
