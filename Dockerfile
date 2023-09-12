@@ -10,4 +10,4 @@ USER node:node
 
 RUN cd /custom && npm install OCHA-DAP/hdx-n8n-nodes-redis-streams-trigger
 
-USER node:node
+USER root
