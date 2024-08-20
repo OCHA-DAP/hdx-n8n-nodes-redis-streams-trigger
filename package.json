@@ -12,8 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.16.3",
-    "n8n-core": "^0.161.0",
-    "n8n-workflow": "^0.143.0",
+    "n8n-core": "^0.161.2",
+    "n8n-workflow": "^0.143.2",
     "redis": "^4.6.5"
   },
   "devDependencies": {
